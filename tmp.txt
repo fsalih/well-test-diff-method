@@ -1,0 +1,4 @@
+DiffData(wct=100, q=15, use_q=False, pw=218.08, rho_oil=800, rho_water=1000, rho_inj=1050, rho_liq=-1, c_liq=1e-05, d_nkt_in=0.062, d_nkt_out=0.073, d_tube_in=0.132, md_vdp=1000, md_device=1000, md_bottom=1500, wbs_type='Õ “', research_type=' œƒ', use_trajectory=True, p_is_vdp=True, tube_area=0, df_inkl=      md  elong
+0 -10000      0
+1      0      0
+2  10000      0, tvd_vdp=1000, tvd_device=1000, changing_wbs_time=-1)
